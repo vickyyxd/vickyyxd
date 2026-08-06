@@ -1,5 +1,8 @@
-Hi,I'm Vicky👋
+# Hi, I'm Vicky Kumar 👋
 
-I'm a Software Engineer 
-passionate about Building projects, learning daily, and turning ideas into code.  
-Interested in Data Science, AI, Web Development & Problem Solving .🚀 
+💻 Aspiring developer passionate about web development, programming, and digital creativity.
+
+🚀 Currently learning HTML, JavaScript, and Python while building practical projects and improving my problem-solving skills.
+
+🌱 Always learning, building, and exploring new technologies.
+
